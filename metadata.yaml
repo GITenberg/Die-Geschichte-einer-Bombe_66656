@@ -1,11 +1,16 @@
 _repo: Die-Geschichte-einer-Bombe_66656
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66656-h/images/cover.jpg
 creator:
   author:
     agent_name: Traven, B.
     gutenberg_agent_id: '53904'
     url: http://www.gutenberg.org/2009/agents/53904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66656#Die-Geschichte-einer-Bombe
 gutenberg_issued: '2021-11-03'
 identifiers:
   gutenberg: '66656'
